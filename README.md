@@ -4,12 +4,15 @@ through simply connected mazes.
 
 # Mad Max
 Top View
+
 ![Alt_text](BotImages/MadMaxTopViewSmall.PNG)
 
 Left View
+
 ![Alt_text](BotImages/MadMaxLeftViewSmall.PNG)
 
 Right View
+
 ![Alt_text](BotImages/MadMaxRightViewSmall.PNG)
 
 ### authors
