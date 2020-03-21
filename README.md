@@ -13,10 +13,10 @@ Left View
 Right View
 
 # hardware
-Brain: VEX motor controller
-Left hand: ultrasonic sensor (used to detect left wall)
-Eyes: light sensor (used to detect if too close to wall in front)
-Feet: wheels and encoders
+Brain: VEX motor controller\
+Left hand: ultrasonic sensor (used to detect left wall)\
+Eyes: light sensor (used to detect if too close to wall in front)\
+Feet: wheels and encoders\
 
 # in action
 
