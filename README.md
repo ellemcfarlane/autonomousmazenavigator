@@ -6,10 +6,10 @@ through simply connected mazes.
 ![Alt_text](BotImages/MadMaxTopViewSmall.PNG)\
 Top View
 
-![Alt_text](BotImages/MadMaxLeftViewSmall.PNG)
+![Alt_text](BotImages/MadMaxLeftViewSmall.PNG)\
 Left View
 
-![Alt_text](BotImages/MadMaxRightViewSmall.PNG)
+![Alt_text](BotImages/MadMaxRightViewSmall.PNG)\
 Right View
 
 ### authors
