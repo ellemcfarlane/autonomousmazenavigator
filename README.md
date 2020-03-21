@@ -3,14 +3,7 @@ RobotC program that implements PID and Wall Follower algorithms. Guides our bot 
 through simply connected mazes.
 
 # mad max
-![Alt_text](BotImages/MadMaxTopViewSmall.PNG)\
-Top View
-
-![Alt_text](BotImages/MadMaxLeftViewSmall.PNG)\
-Left View
-
-![Alt_text](BotImages/MadMaxRightViewSmall.PNG)\
-Right View
+![Alt_text](BotImages/madmaxdiagram.jpg)\
 
 # hardware
 Brain: VEX motor controller\
