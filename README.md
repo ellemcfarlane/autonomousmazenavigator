@@ -2,7 +2,7 @@
 RobotC program that implements PID and Wall Follower algorithms. Guides our bot Mad Max
 through simply connected mazes. See it in action [here](https://drive.google.com/file/d/1c68ctyWqp9Wu4RZCFUQ1Bh766Db3p9st/view?usp=sharing).
 
-Note:
+Notes:
 * Bot gets close to wall, but never actually touches.
 * Light in video is not used for navigation.
 
