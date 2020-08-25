@@ -25,7 +25,7 @@ int putInRange(int candidateValue);
 // GLOBAL VARIABLES:
 // default motor speeds
 const int MOTOR_SPEED = 30;
-const int FNU_MOTOR_SPEED = 100;
+const int FUN_MOTOR_SPEED = 100;
 
 task main()
 {
